@@ -1,0 +1,28 @@
+--- Relatório de Duplicados (2026-05-15 19:18:53) ---
+Hash: a391b2632973fd2d1b30d384e6f396d9302b64448e80f4b0c8b88f646299dedc
+  - /Users/afranio/Documents/projeto-ada-modulo3/untitled/./target/classes/config.properties
+  - /Users/afranio/Documents/projeto-ada-modulo3/untitled/./src/main/resources/config.properties
+
+Hash: 57d9a5a02feb2a57426d965c68993d896d74637ffcf10e3470026ea114053546
+  - /Users/afranio/Documents/projeto-ada-modulo3/untitled/./exemplo_duplicados/arquivo3_igual_ao_1.txt
+  - /Users/afranio/Documents/projeto-ada-modulo3/untitled/./exemplo_duplicados/arquivo1.txt
+  - /Users/afranio/Documents/projeto-ada-modulo3/untitled/./exemplo_duplicados/pasta_interna/arquivo1_copia.txt
+
+--- Relatório de Duplicados (2026-05-15 19:22:49) ---
+Hash: a391b2632973fd2d1b30d384e6f396d9302b64448e80f4b0c8b88f646299dedc
+  - /Users/afranio/Documents/projeto-ada-modulo3/./target/classes/config.properties
+  - /Users/afranio/Documents/projeto-ada-modulo3/./src/main/resources/config.properties
+
+Hash: 57d9a5a02feb2a57426d965c68993d896d74637ffcf10e3470026ea114053546
+  - /Users/afranio/Documents/projeto-ada-modulo3/./exemplo_duplicados/arquivo3_igual_ao_1.txt
+  - /Users/afranio/Documents/projeto-ada-modulo3/./exemplo_duplicados/arquivo1.txt
+  - /Users/afranio/Documents/projeto-ada-modulo3/./exemplo_duplicados/pasta_interna/arquivo1_copia.txt
+
+Hash: 6c4aaf4bc9a3dd10af0d4c2d8aadae30f74c776ad48c2af3dd609050a794962e
+  - /Users/afranio/Documents/projeto-ada-modulo3/./.git/refs/heads/main
+  - /Users/afranio/Documents/projeto-ada-modulo3/./.git/refs/remotes/origin/main
+
+Hash: ab8fabb28ffba89b30a71f5ad883aa59f70c81adcbb9cc413545c91fdfc4649b
+  - /Users/afranio/Documents/projeto-ada-modulo3/./.git/ORIG_HEAD
+  - /Users/afranio/Documents/projeto-ada-modulo3/./.git/refs/heads/feat/file-visitor
+
